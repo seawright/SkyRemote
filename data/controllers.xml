@@ -1,0 +1,16 @@
+<SkyRemote>
+  <controllers>
+    <controller name="Dining Room (2)" ipaddress='192.168.0.2' />
+    <controller name="Kitchen (3)" ipaddress='192.168.0.3' />
+    <controller name="Lounge (4)" ipaddress='192.168.0.4' />
+    <controller name="Bedroom (5)" ipaddress='192.168.0.5' />
+    <controller name="192.168.0.6" ipaddress='192.168.0.6' />
+    <controller name="192.168.0.7" ipaddress='192.168.0.7' />
+    <controller name="192.168.0.8" ipaddress='192.168.0.8' />
+    <controller name="192.168.0.9" ipaddress='192.168.0.9' />
+    <controller name="192.168.0.10" ipaddress='192.168.0.10' />
+    <controller name="192.168.0.11" ipaddress='192.168.0.11' />
+    <controller name="192.168.0.12" ipaddress='192.168.0.12' />
+    <controller name="192.168.0.13" ipaddress='192.168.0.13' />
+  </controllers>
+</SkyRemote>

@@ -1,0 +1,82 @@
+<SkyRemote>
+   <commands>
+      <command name="Power" id="0"/>
+      <command name="Sky" id="127"/>
+      <command name="TV" id="127"/>
+      <command name="0" id="48"/>
+      <command name="1" id="49"/>
+      <command name="2" id="50"/>
+      <command name="3" id="51"/>
+      <command name="4" id="52"/>
+      <command name="5" id="53"/>
+      <command name="6" id="54"/>
+      <command name="7" id="55"/>
+      <command name="8" id="56"/>
+      <command name="9" id="57"/>
+      <command name="ChannelUp" id="6"/>
+      <command name="ChannelDown" id="7"/>
+      <command name="Up" id="16"/>
+      <command name="Down" id="17"/>
+      <command name="Left" id="18"/>
+      <command name="Right" id="19"/>
+      <command name="Select" id="1"/>
+      <command name="Red" id="32"/>
+      <command name="Green" id="33"/>
+      <command name="Yellow" id="34"/>
+      <command name="Blue" id="35"/>
+      <command name="Text" id="15"/>
+      <command name="I" id="14"/>
+      <command name="Help" id="9"/>
+      <command name="Backup" id="2"/>
+      <command name="BoxOffice" id="240"/>
+      <command name="Services" id="10"/>
+      <command name="TVGuide" id="11"/>
+      <command name="Interactive" id="8"/>
+      <command name="Rewind" id="71"/>
+      <command name="Record" id="67"/>
+      <command name="Stop" id="66"/>
+      <command name="Fastforward" id="69"/>
+      <command name="Play" id="64"/>
+      <command name="Pause" id="65"/>
+   </commands>
+      <buttonsplus>
+      <button name="Power" x="174" y="43" width="27" height="27"/>
+      <button name="Sky" x="119" y="63" width="41" height="24"/>
+      <button name="TV" x="79" y="51" width="28" height="21"/>
+      <button name="0" x="128" y="514" width="27" height="27"/>
+      <button name="1" x="90" y="402" width="27" height="27"/>
+      <button name="2" x="128" y="406" width="27" height="27"/>
+      <button name="3" x="166" y="402" width="27" height="27"/>
+      <button name="4" x="90" y="438" width="27" height="27"/>
+      <button name="5" x="128" y="442" width="27" height="27"/>
+      <button name="6" x="166" y="438" width="27" height="27"/>
+      <button name="7" x="90" y="474" width="27" height="27"/>
+      <button name="8" x="128" y="478" width="27" height="27"/>
+      <button name="9" x="166" y="474" width="27" height="27"/>
+      <button name="ChannelUp" x="188" y="169" width="24" height="21"/>
+      <button name="ChannelDown" x="189" y="227" width="24" height="22"/>
+      <button name="Up" x="120" y="164" width="40" height="22"/>
+      <button name="Down" x="120" y="232" width="40" height="22"/>
+      <button name="Left" x="94" y="189" width="22" height="40"/>
+      <button name="Right" x="165" y="189" width="22" height="40"/>
+      <button name="Select" x="125" y="192" width="32" height="33"/>
+      <button name="Red" x="86" y="364" width="18" height="18"/>
+      <button name="Green" x="116" y="374" width="18" height="18"/>
+      <button name="Yellow" x="149" y="374" width="18" height="18"/>
+      <button name="Blue" x="179" y="364" width="18" height="18"/>
+      <button name="Text" x="80" y="263" width="20" height="20"/>
+      <button name="I" x="161" y="141" width="20" height="20"/>
+      <button name="Help" x="181" y="263" width="20" height="20"/>
+      <button name="Backup" x="121" y="264" width="42" height="23"/>
+      <button name="BoxOffice" x="87" y="91" width="40" height="21"/>
+      <button name="Services" x="153" y="91" width="40" height="21"/>
+      <button name="TVGuide" x="61" y="119" width="40" height="21"/>
+      <button name="Interactive" x="179" y="118" width="40" height="21"/>
+      <button name="Rewind" x="81" y="298" width="23" height="28"/>
+      <button name="Record" x="103" y="338" width="31" height="24"/>
+      <button name="Stop" x="148" y="338" width="31" height="24"/>
+      <button name="Fastforward" x="179" y="295" width="20" height="33"/>
+      <button name="Play" x="112" y="312" width="57" height="23"/>
+      <button name="Pause" x="112" y="289" width="57" height="23"/>
+   </buttonsplus>
+</SkyRemote>
